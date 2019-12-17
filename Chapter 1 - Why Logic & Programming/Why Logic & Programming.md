@@ -1,4 +1,4 @@
-Why coding? This is a valid question, since people have been making money trading equities for more than 100 years, and they didn’t have computers all the time. Technology doesn’t make use smarter, but it can really help us consume more information, and it can help us search through a lot more information that we can as human beings.
+Why coding? This is a valid question, since people have been making money trading equities for more than 100 years, and they didn’t have computers all the time. Technology doesn’t make us smarter, but it can really help us consume and analyze more information, automate standard actions, and it can help us search through a lot more information that we can on our own.
 
 Do you like Google? 
 <li> In the same way you can build your own news stream and search for the topics you are interested in.</li> 
