@@ -4,7 +4,7 @@ Do you like Google?
 <li> In the same way you can build your own news stream and search for the topics you are interested in.</li> 
 <li> Do you like a certain type of chart? How many charts can you study on your own before you get a headache? A program could check the WHOLE market for specific patterns in less than a minute … that is over 5000 stocks.</li>
 <li> Do you have an idea and want to test it and see how it worked in the past? Or how it works under certain conditions? Well, good luck doing that without coding. </li>
-
+<br>
 And the list is really long. I could group the type of technologies into the following categories:
 <li><b>Search technologies</b> - they help discover signals or ideas </li>
 <li><b>Prototyping and testing</b> - they help create algos and then test such algos to see if and how they work</li>
