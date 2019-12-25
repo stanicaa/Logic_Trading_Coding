@@ -1,0 +1,1 @@
+This appendix contains code examples and simple explanation of how to access company disclosure information in the US and Japan. This can be very powerful as it gives you access to a wealth of information that can be used in a variety of ways.
