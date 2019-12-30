@@ -1,1 +1,1 @@
-This explains shortly how you can easily build you own testing machine, so that you don't have to depend on third party services. Since you are ready to code, you might as well take full advantage of coding capabilities, and build all the functionality you need.
+Building your own backtesting machine is very simple. This explains shortly how you can do it, so that you don't have to depend on third party services. Better take full advantage of coding/programming capabilities, and build all the functionality you need.
