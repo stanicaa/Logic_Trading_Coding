@@ -10,7 +10,7 @@ The book is modular in itself, available under license Apache 2.0 - so feel free
 <li>code implementation logic,</li> 
 <li>code examples thereof. </li>
 
-And everything as short as possible - as a sales by background, I know that I lost a client if I didn’t make an impression in the first 10 seconds.
+<br>And everything as short as possible - as a sales by background, I know that I lost a client if I didn’t make an impression in the first 10 seconds.
 
 Do you need to learn how to code? That would be best and highly recommended. But if you cannot code, it is very easy to hire somebody for you nowadays, and I’ve tried to make the logic here as easy to understand as possible in case you need to hire a programmer for your needs.
 
