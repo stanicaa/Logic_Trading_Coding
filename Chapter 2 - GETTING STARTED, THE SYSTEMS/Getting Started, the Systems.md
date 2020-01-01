@@ -6,7 +6,6 @@ Current chapter will introduce the minimum necessary tools to get your started, 
 <li><b>Broker connectivity,</b> if you actually want to have your machine connect to the broker.</li>
 <li><b>Your own backtesting machine</b> that you can use to verify and finetune your own ideas. You can already use online free resources like Quantopian, but if you can get your own data, better build your own backtesting machine. It's easy and allows you for maximum flexibility in creating new strategies.</li>
 
-
 (Fig 1 The overall system. Programmer - Broker - Market - Data)
 (Fig 2 Programmer systems: basic libraries, data, algos)
 (Fig 3 Understanding Async and limitations)
