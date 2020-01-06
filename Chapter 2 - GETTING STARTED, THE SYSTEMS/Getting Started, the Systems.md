@@ -6,8 +6,9 @@ Current chapter will introduce the minimum necessary tools to get your started, 
 <li><b>Access to data.</b>There are plenty of resources where you can get access to data for free or for a fee, depending on your needs. I'll just be giving a few examples below.</li> 
 <li><b>Broker connectivity,</b> if you actually want to have your machine connect to the broker.</li>
 <li><b>Your own backtesting machine</b> that you can use to verify and finetune your own ideas. You can already use online free resources like Quantopian, but if you can get your own data, better build your own backtesting machine. It's easy and allows you for maximum flexibility in creating new strategies.</li>
+<br>
 
-(Fig 1 The overall system. Programmer - Broker - Market - Data)
+![alt text] (https://github.com/stanicaa/Logic_Trading_Coding/blob/master/Chapter%202%20-%20GETTING%20STARTED%2C%20THE%20SYSTEMS/Trading%20System%20Overview.001.jpeg)
 
 
 (Fig 3 Understanding Async and limitations)
