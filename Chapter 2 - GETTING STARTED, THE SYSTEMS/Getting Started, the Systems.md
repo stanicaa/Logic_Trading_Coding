@@ -8,7 +8,7 @@ Current chapter will introduce the minimum necessary tools to get your started, 
 <li><b>Your own backtesting machine</b> that you can use to verify and finetune your own ideas. You can already use online free resources like Quantopian, but if you can get your own data, better build your own backtesting machine. It's easy and allows you for maximum flexibility in creating new strategies.</li>
 <br>
 
-<img src=https://github.com/stanicaa/Logic_Trading_Coding/blob/master/Chapter%202%20-%20GETTING%20STARTED%2C%20THE%20SYSTEMS/Trading%20System%20Overview.001.jpeg /)
+![alt text] (https://github.com/stanicaa/Logic_Trading_Coding/blob/master/Chapter%202%20-%20GETTING%20STARTED%2C%20THE%20SYSTEMS/Trading%20System%20Overview.001.jpeg)
 
 
 (Fig 3 Understanding Async and limitations)
