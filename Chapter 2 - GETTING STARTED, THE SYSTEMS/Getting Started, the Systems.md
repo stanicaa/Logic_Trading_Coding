@@ -11,4 +11,5 @@ Current chapter will introduce the minimum necessary tools to get your started, 
 <img src= "https://github.com/stanicaa/Logic_Trading_Coding/blob/master/Chapter%202%20-%20GETTING%20STARTED%2C%20THE%20SYSTEMS/Trading%20System%20Overview.001.jpeg" />
 
 
+(Add the basic code of a program that uses data to place an order with the broker)
 (Fig 3 Understanding Async and limitations)
