@@ -1,6 +1,6 @@
 Don't lose money! This is the most important rule.
 
-Trading is very emotional - your state of mind when you make money and need to invest again is VERY different from when you lose money and need to invest again. Discipline is what helps avoid the emotional mistakes, so pay attention to how you behave when you make mistakes and create rules to avoid them next time. There are plenty of resources out there explaining this, from Jim Cramer on CNBC to Investopedia.
+Trading is very emotional - your state of mind when you make money and need to invest again is VERY different from when you lose money and need to invest again. Your CFA or university degree won't teach you this, for a very simple reason: you need to lose money first to feel and understand it. Discipline helps avoid the emotional mistakes, so pay attention to how you behave when you make mistakes and create rules to avoid them next time. There are plenty of resources out there explaining this, from Jim Cramer on CNBC to Investopedia.
 
 General rules = your WHILE LOOP function for trading:
 <li><b>Loss Cut Discipline</b> - maybe the most important of them all. Understand how much loss you can tolerate per position, then cut the position when it happens, and look for other opportunities. There are plenty of stocks in the market, highly unlikely the current LOSING position is the only one that can bounce back!</li>
